@@ -4,7 +4,7 @@ layout: page
 title: About
 ---
 
-Kia ora! I’m a Finance graduate with experience in a variety of administrative, project, and analytical tasks based in [Mount Maunganui, New Zealand].
+Kia ora! I’m a Finance graduate with experience in a variety of administrative, project, and analytical tasks based in Mount Maunganui, New Zealand.
 
 Here’s a little about me:
 

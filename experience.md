@@ -6,7 +6,7 @@ title: Experience
 **Tank Asset Coordinator and Data Analyst - McFall Fuel Ltd**  
 November 2021 – August 2024  
 
-- Managed a $20M tank asset portfolio and tracked $5M in capital expenditure (CAPEX).
+- Managed a $20M Tank Asset portfolio and tracked $5M in capital expenditure (CAPEX).
 - Fostered and maintained strong relationships with internal teams, external suppliers, and service providers.
 - Improved operational efficiency by streamlining internal processes.
 - Oversaw summer interns, providing guidance and ensuring effective task completion.
@@ -25,4 +25,4 @@ February 2020 – November 2021
 
 - Delivered great customer service.
 - Managed store operations, including opening and closing procedures, cash handling, and till reconciliation.
-- Conducted regular stock takes and inventory management to maintain accurate product levels and minimize discrepancies.
+- Conducted regular stock takes and inventory management to maintain accurate product levels and minimise discrepancies.

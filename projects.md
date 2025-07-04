@@ -3,14 +3,14 @@ layout: page
 title: Projects
 ---
 
-## McFall Fuel Ltd 2024 Customer Engagement Survey
+## 2024 Customer Engagement Survey
 
-I led the production of McFall Fuel’s 2024 Customer Engagement Survey in partnership with Kantar, the world’s leading marketing data and analytics company. I supervised two Summer interns in question development, collaborating closely with Kantar and our management team to define survey objectives, select recipients, and oversee distribution and progress tracking.
+I led McFall Fuel’s 2024 Customer Engagement Survey project in partnership with Kantar, the world’s leading marketing data and analytics company. I supervised two Summer interns in question development, collaborating closely with Kantar and our management team to define survey objectives, select recipients, and oversee distribution and progress tracking.
 
 **Responsibilities:**
-- Finalised survey questions and answer formats
-- Set response targets and customer incentives
-- Coordinated communication with internal teams and external customers
+- Finalised survey questions and answer formats.
+- Set response targets and customer incentives.
+- Coordinated communication with internal teams and external customers.
 
 This project strengthened my skills in project management, stakeholder communication, and data analysis.
 

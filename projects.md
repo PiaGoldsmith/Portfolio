@@ -18,10 +18,7 @@ This project strengthened my skills in project management, stakeholder communica
 
 ## Predicting the Future of Fossil Fuel
 
-<div style="text-align:center;">
-  <img src="/assets/img/dashboard.jpg" alt="Fossil Fuel Report" style="max-width:400px;filter: blur(8px); border-radius:8px; margin-bottom:0.5em;">
-  <div style="font-size:0.95em; color:#666;">Example: Data visualisation (blurred for confidentiality)</div>
-</div>
+![Alt text for my project](assets/images/myproject.png)
 
 The objective of this project was to understand how competitors and industry stakeholders predict the evolution of the fuel market over the next 5, 10, and 15 years—critical for strategic planning by the CEO and Board.
 

@@ -1,98 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }} | {{ site.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {%- include head.html -%}
-    <style>
-      body {
-        margin: 0;
-        font-family: Arial, sans-serif;
-        background: #fafbfc;
-      }
-      .layout-container {
-        display: flex;
-        max-width: 1200px;
-        margin: 2em auto 0 auto;
-        gap: 2em;
-      }
-      .sidebar {
-        background: #f8f9fa;
-        border-radius: 16px;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.07);
-        padding: 2em 1em;
-        width: 240px;
-        min-height: 70vh;
-        position: sticky;
-        top: 40px;
-        margin-bottom: 2em;
-        height: fit-content;
-      }
-      .sidebar-menu {
-        list-style: none;
-        padding: 0;
-        margin: 0 0 2em 0;
-      }
-      .sidebar-menu li {
-        margin-bottom: 1em;
-      }
-      .sidebar-menu a {
-        display: flex;
-        align-items: center;
-        padding: 0.5em 1em;
-        font-size: 1.1em;
-        color: #333;
-        text-decoration: none;
-        border-radius: 8px;
-        transition: background 0.2s;
-      }
-      .sidebar-menu a:hover {
-        background: #e2e6ea;
-        color: #0066cc;
-      }
-      .sidebar-menu span {
-        margin-right: 0.7em;
-        font-size: 1.2em;
-      }
-      .sidebar-section h3 {
-        margin-top: 0;
-        font-size: 1.15em;
-        color: #0066cc;
-      }
-      .sidebar-section p {
-        font-size: 0.95em;
-        color: #444;
-        margin-bottom: 0;
-      }
-      .content {
-        flex: 1;
-        background: #fff;
-        border-radius: 6px;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-        min-height: 70vh;
-        padding: 2em 1.5em;
-        margin-bottom: 2em;
-      }
-      footer {
-        color: #888;
-        font-size: 0.95em;
-        margin-top: 2em;
-        text-align: center;
-      }
-      @media (max-width: 900px) {
-        .layout-container {
-          flex-direction: column;
-        }
-        .sidebar {
-          width: 100%;
-          margin-right: 0;
-        }
-      }
-    </style>
+    <!-- ...head code... -->
   </head>
   <body>
-    {% include header.html %}
     <div class="layout-container">
       {% include sidebar.html %}
       <div class="content">

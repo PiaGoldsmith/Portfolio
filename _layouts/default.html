@@ -65,4 +65,34 @@
         background: #fff;
         border-radius: 6px;
         box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-        min
+        min-height: 70vh;
+        padding: 2em 1.5em;
+        margin-bottom: 2em;
+      }
+      footer {
+        color: #888;
+        font-size: 0.95em;
+        margin-top: 2em;
+        text-align: center;
+      }
+      @media (max-width: 900px) {
+        .layout-container {
+          flex-direction: column;
+        }
+        .sidebar {
+          width: 100%;
+          margin-right: 0;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="layout-container">
+      {% include sidebar.html %}
+      <div class="content">
+        {{ content }}
+        {% include footer.html %}
+      </div>
+    </div>
+  </body>
+</html>

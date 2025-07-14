@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Get in touch!
-permalink: /contact/
+permalink: /Contact/
 ---
 
 You can reach me at [piagoldsmith02@gmail.com](mailto:your.email@example.com)  

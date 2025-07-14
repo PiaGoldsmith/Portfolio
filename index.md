@@ -5,11 +5,12 @@ title: Home
 
 Welcome to my portfolio!
 
-Kia ora! I’m a Finance graduate with experience in a variety of administrative, project, and analytical tasks based in [Mount Maunganui, New Zealand].
+Kia ora! I’m a Finance graduate with experience in a variety of administrative, project, and analytical tasks based in Mount Maunganui, New Zealand.
 
 Here’s a little about me:
-
-# 🎓 Education
+---
+# My Education
+---
 ## [University of Waikato](https://github.com/user-attachments/files/18858004/Academic.Record.pdf)
 2020 – 2023  
 * [Bachelor of Business, major in Finance](https://github.com/user-attachments/files/18858010/Certificate.pdf)
@@ -21,10 +22,10 @@ Here’s a little about me:
 
 ## Te Wharekura o Mauao
 2014 – 2016
+---
+# My Skills
+---
 
-# 💻 Skills
-
-| Software           | Finance & Analysis    | Soft Skills           |
 |--------------------|---------------------- |-----------------------|
 | Microsoft 365      | Data Modelling        | Communication         |
 | Qlikview           | Excel & Google Sheets | Note-taking           |

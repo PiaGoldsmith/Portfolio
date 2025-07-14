@@ -1,9 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!-- ...head code... -->
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- include head.html -%}
+    <style>
+      /* ...Your modern CSS from before... */
+    </style>
   </head>
   <body>
+    {% include header.html %}
     <div class="layout-container">
       {% include sidebar.html %}
       <div class="content">

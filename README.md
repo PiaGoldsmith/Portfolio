@@ -2,7 +2,10 @@
 ---
 layout: page
 title: About
+permalink: /home/
 ---
+
+
 
 Kia ora! I’m a Finance graduate with experience in a variety of administrative, project, and analytical tasks based in Mount Maunganui, New Zealand.
 

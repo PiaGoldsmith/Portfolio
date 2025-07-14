@@ -1,34 +1,54 @@
-body {
-  font-family: system-ui, sans-serif;
-  margin: 0;
-  padding: 0;
-  background: #fdfdfd;
-  color: #222;
+.sidebar {
+  background: #f8f9fa;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  padding: 2em 1em;
+  width: 240px;
+  min-height: 80vh;
+  position: sticky;
+  top: 40px;
+  margin-right: 2em;
 }
-nav ul {
-  display: flex;
-  gap: 1.5em;
+
+.sidebar-menu {
   list-style: none;
-  margin: 0;
-  padding: 1em;
-  background: #eee;
+  padding: 0;
+  margin: 0 0 2em 0;
 }
-nav a {
+
+.sidebar-menu li {
+  margin-bottom: 1em;
+}
+
+.sidebar-menu a {
+  display: flex;
+  align-items: center;
+  padding: 0.5em 1em;
+  font-size: 1.1em;
+  color: #333;
   text-decoration: none;
-  color: #222;
-  font-weight: bold;
+  border-radius: 8px;
+  transition: background 0.2s;
 }
-main {
-  max-width: 650px;
-  margin: 2em auto;
-  padding: 1em;
-  background: #fff;
-  border-radius: 5px;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+
+.sidebar-menu a:hover {
+  background: #e2e6ea;
+  color: #0066cc;
 }
-footer {
-  text-align: center;
-  padding: 2em 1em 1em 1em;
-  color: #888;
-  font-size: 0.9em;
+
+.sidebar-menu span {
+  margin-right: 0.7em;
+  font-size: 1.2em;
+}
+
+.sidebar-section h3 {
+  margin-top: 0;
+  font-size: 1.15em;
+  color: #0066cc;
+}
+
+.sidebar-section p {
+  font-size: 0.95em;
+  color: #444;
+  margin-bottom: 0;
 }

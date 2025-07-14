@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Experience
+permalink: /experience/
 ---
 
 **Tank Asset Coordinator and Data Analyst - McFall Fuel Ltd**  

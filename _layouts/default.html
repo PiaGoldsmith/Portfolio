@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>{{ page.title }} | {{ site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {%- include head.html -%}
+    {% include head.html %}
     <style>
       body {
         margin: 0;
@@ -68,6 +68,29 @@
         min-height: 70vh;
         padding: 2em 1.5em;
         margin-bottom: 2em;
+      }
+      .skills-table {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+        gap: 1em;
+        margin: 2em 0;
+      }
+      .skill-bubble {
+        background: linear-gradient(135deg, #a5b4fc 0%, #6366f1 100%);
+        color: #fff;
+        font-weight: 600;
+        border-radius: 50px;
+        padding: 1em 0.5em;
+        text-align: center;
+        box-shadow: 0 2px 8px rgba(99,102,241,0.08);
+        font-size: 1.05em;
+        transition: transform 0.2s, box-shadow 0.2s;
+        cursor: pointer;
+      }
+      .skill-bubble:hover {
+        transform: translateY(-2px) scale(1.07);
+        box-shadow: 0 6px 16px rgba(99,102,241,0.12);
+        background: linear-gradient(135deg, #6366f1 0%, #a5b4fc 100%);
       }
       footer {
         color: #888;
